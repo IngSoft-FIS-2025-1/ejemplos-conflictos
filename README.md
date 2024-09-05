@@ -77,6 +77,7 @@
 **4. Moverse a la rama principal (main o master):**
 ```
    git checkout master
+   Nota: chequear si la rama se llama main o master en el repositorio para usarla en el comando.
 ```
    
 **5. Modificar archivo.txt en la rama principal:**
@@ -142,4 +143,5 @@ Texto en nueva_rama
 
 ```
    git push origin main
+   Nota: chequear si la rama se llama main o master en el repositorio para usarla en el comando.
 ```
