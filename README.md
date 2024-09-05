@@ -8,15 +8,19 @@
    cd mi_proyecto
 ```
 
+**2. Inicialización del repositorio en el directorio creado:**
+```
+   git init
+```
 
-**2. Configuración de nombre de usuario y correo electrónico:**
+**3. Configuración de nombre de usuario y correo electrónico:**
 ```
    git config user.name "Nombre"
    git config user.email "mail@ejemplo.com"
 ```
 
 
-**3. Opcional: vinculación con un repositorio remoto:**
+**4. Opcional: vinculación con un repositorio remoto:**
 
 ```
    git remote add origin {url_github}
