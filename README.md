@@ -139,9 +139,4 @@ Texto en nueva_rama
 ```
    git log --oneline --graph
 ```
-## 7. Opcional: subir los cambios al repositorio remoto
 
-```
-   git push origin main
-   Nota: chequear si la rama se llama main o master en el repositorio para usarla en el comando.
-```
